@@ -1,0 +1,17 @@
+.titles {
+  font-family: 'Poppins', sans-serif;
+  color: red;
+  background-color: black;
+  text-align: center;
+}
+
+.bcg {
+      background-size: cover;
+     background-attachment: fixed;
+     background-position: center;
+     background-repeat:no-repeat;
+     /* The following styles are required for the "scroll-over" effect */
+     width: 100%;
+     height: 100%;
+
+}
